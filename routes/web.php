@@ -14,7 +14,7 @@ Route::get('/login', function () {
 Route::get('/home', function () {
     return view('home');
 });
-Route::get('/', function () {
+Route::get('https://mrhanygerges.herokuapp.com/', function () {
     return view('layout');
 });
 
