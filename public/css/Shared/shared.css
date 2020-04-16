@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  font-family: "Rubik", sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+.margin-top-for-navbar {
+  margin-top: 70px;
+}
+
+.section {
+  padding: 25px 0;
+}
+
+.section-grey {
+  background-color: #f5f5f5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h5,
+h6 {
+  color: #744ba3;
+  letter-spacing: 1px;
+}
+
+.section p {
+  margin: 0;
+}
+

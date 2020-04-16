@@ -1,0 +1,13 @@
+{
+    "/js/Shared/navbar.js": "/js/Shared/navbar.js",
+    "/css/Shared/footer.css": "/css/Shared/footer.css",
+    "/css/Shared/navbar.css": "/css/Shared/navbar.css",
+    "/css/Shared/shared.css": "/css/Shared/shared.css",
+    "/css/User/about.css": "/css/User/about.css",
+    "/css/User/committees.css": "/css/User/committees.css",
+    "/css/User/contact.css": "/css/User/contact.css",
+    "/css/User/events.css": "/css/User/events.css",
+    "/css/User/home_page.css": "/css/User/home_page.css",
+    "/css/User/profile.css": "/css/User/profile.css",
+    "/css/User/sign.css": "/css/User/sign.css"
+}
